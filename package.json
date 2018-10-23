@@ -1,6 +1,6 @@
 {
   "name": "@clusic/cluster",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The cluster model of clusic",
   "main": "index.js",
   "scripts": {
