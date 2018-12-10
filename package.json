@@ -1,6 +1,6 @@
 {
   "name": "@clusic/cluster",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The cluster model of clusic",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "dependencies": {
     "@clusic/ipc": "^1.0.2",
     "@clusic/utils": "^1.0.0",
-    "cli-table": "^0.3.1"
+    "console.table": "^0.10.0"
   },
   "devDependencies": {
     "koa": "^2.5.3"
